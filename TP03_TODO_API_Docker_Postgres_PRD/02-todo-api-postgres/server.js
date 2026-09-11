@@ -1,5 +1,5 @@
 /**
- * 02 - TODO API con Postgres.
+ * 02 - TODO API con Postgres
  * Nivel: Intermedio
  *
  * Objetivo:
