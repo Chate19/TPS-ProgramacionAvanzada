@@ -1,12 +1,12 @@
 ```markdown
 # TP4 - Microservicio de Pagos con Stripe y Webhooks
 
-**Alumno:** Agustin Chatelain
-**Materia:** Programación Avanzada
+Alumno: Agustin Chatelain
+Materia: Programación Avanzada
 
 Este repositorio contiene la implementación de un microservicio en NestJS para la gestión de pagos mediante sesiones de Stripe Checkout y la validación asíncrona de transacciones a través de Webhooks.
 
-## ✅ Checklist de entrega
+## Checklist de entrega
 - [x] Entrega 1 funcionando (captura o HTTP del `POST` y `url` de Checkout)
 - [x] Entrega 2 funcionando (log de `orderId` en el webhook)
 - [x] `.env` no versionado; sí `.env.template`
@@ -14,7 +14,7 @@ Este repositorio contiene la implementación de un microservicio en NestJS para 
 
 ---
 
-## 🚀 Cómo levantar el proyecto
+## Cómo levantar el proyecto
 
 1. **Instalar dependencias:**
    Ejecutar en la terminal dentro de la raíz del proyecto:
