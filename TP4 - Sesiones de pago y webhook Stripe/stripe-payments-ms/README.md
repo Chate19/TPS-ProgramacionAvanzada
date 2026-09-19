@@ -54,7 +54,7 @@ stripe listen --forward-to localhost:3003/payments/webhook --events charge.succe
 
 ---
 
-## 🛣️ Rutas disponibles (Endpoints)
+## Rutas disponibles (Endpoints)
 
 ### 1. Crear sesión de pago
 
